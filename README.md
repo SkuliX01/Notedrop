@@ -9,7 +9,7 @@ Notedrop is a secure note-taking application designed with privacy at its core. 
 This repository contains the **frontend client** for the Notedrop app.
 
 You can access the live application at:  
-[https://notedrop.app](https://notedrop.app) *(replace with the actual URL if available)*
+[https://notedrop.app](https://notedrop.app) 
 
 > Note: Backend is stored in this [repository](https://github.com/skulix01/notedrop-backend)
 
@@ -27,3 +27,10 @@ You can access the live application at:
 - Encryption: Web Crypto API,
 - State Management: Zustand
 - UI Library: Tailwindcss, ShadCn
+
+## License
+
+This project is licensed under the **GNU Affero General Public License v3.0** - see the [LICENSE](LICENSE) file for details.
+
+[![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)](https://nextjs.org/)
